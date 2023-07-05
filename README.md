@@ -1,4 +1,4 @@
-# SH particle generator
+# Spherical Harmonics Particle Generator
 budizhao/SHPSG matlab code
 
 **Randomly generate angular particles using the following parameters:**
