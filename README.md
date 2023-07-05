@@ -8,10 +8,10 @@ budizhao/SHPSG matlab code
 - D9_15: roughness characterizes surface features at corners and between corners
 
 **Examples**
-Sphere: EI = 1; FI = 1; D2_8 = 0; D9_15 = 0
-Oblate spheroid: EI = 1; FI = 0.5; D2_8 = 0; D9_15 = 0
-Probalate spheroid: EI = 0.5; FI = 1; D2_8 = 0; D9_15 = 0
+- Sphere: EI = 1; FI = 1; D2_8 = 0; D9_15 = 0
+- Oblate spheroid: EI = 1; FI = 0.5; D2_8 = 0; D9_15 = 0
+- Probalate spheroid: EI = 0.5; FI = 1; D2_8 = 0; D9_15 = 0
 
 **Original Repository:**
-https://github.com/budizhao/SHPSG
-https://www.sciencedirect.com/science/article/pii/S0032591018301189
+- https://github.com/budizhao/SHPSG
+- https://www.sciencedirect.com/science/article/pii/S0032591018301189
